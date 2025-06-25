@@ -40,9 +40,11 @@
       "typedRoutes": true
     },
     "extra": {
+      "router": {},
       "eas": {
-        "projectId": "0da9b13a-ff63-43d1-8024-e9b15e89c705"
+        "projectId": "66a28404-ecff-4750-ad3b-70fd81aa3335"
       }
-    }
+    },
+    "owner": "kiran_mallam"
   }
 }
